@@ -53,3 +53,11 @@ class Person
 		}
 	}
 }
+
+// -----------
+// Rule No1: If you have public class in your file, the name of the file must match with 
+// the name of the public class 
+
+// Rule no2: Public class of your source file must have the main method
+
+// Rule no3: There can be only one public class per source code file.
